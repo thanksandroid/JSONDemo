@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JSON Demo</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="fetchDetails">Fetch Details</string>    
+    
+    <string name="err_unknown">The application has encountered unknown error while communicating with server.</string>
+    <string name="err_no_internet">The application was unable to connect to server due to lack of internet connectivity.</string>     
+    <string name="err_io">There was input/output error while connecting to server.</string>
+    <string name="err_timeout">Slow internet connection resulted in connection timeout, try again.</string>
+    <string name="err_protocol">There was an error with network protocol, please try later.</string>
+    <string name="err_uri">The resource located on server was not found.</string>
+
+</resources>
